@@ -126,8 +126,11 @@ aecSpace uses the shapely, sympy, numpy, and scipy libraries for geometric
 operations, so you'll need those as well:
     
 conda install -c conda-forge shapely
+
 conda install -c conda-forge sympy
+
 conda install -c conda-forge scipy
+
 
 numpy should already be installed with Anaconda.
 
